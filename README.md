@@ -1,4 +1,33 @@
-# Weaselway
+# Weaselway and Ubuntu 26.04 - Wayland . Gnome 50 and over via WSL.
+
+Install Ubuntu 26.04 via Powershell: wsl --install Ubuntu-26.04
+
+Update all via Ubuntu terminal: sudo apt update && sudo apt upgrade
+
+Run SCRIPT via TERMINAL.
+
+git clone https://github.com/weaselway/weaselway.git
+cd weaselway
+./ubuntu/install.sh
+
+Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04  - Reboot Ubuntu 26.04 
+
+Start Ubuntu 26.04 terminal and type this - that all =)
+
+ww-start-session
+ww-start-viewer
+
+---
+
+
+
+
+
+
+
+
+
+---
 
 [![Release](https://img.shields.io/github/v/release/weaselway/weaselway?include_prereleases)](https://github.com/weaselway/weaselway/releases)
 [![Build](https://img.shields.io/github/actions/workflow/status/weaselway/weaselway/build-image.yml?branch=main)](https://github.com/weaselway/weaselway/actions/workflows/build-image.yml)
