@@ -17,6 +17,9 @@ Start Ubuntu 26.04 terminal and type this - that all =)
 ww-start-session
 ww-start-viewer
 
+
+MAKE INSTALLATION RICH: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-Gnome50.txt
+
 ---
 
 <p align="center">
