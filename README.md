@@ -6,11 +6,9 @@ Update all via Ubuntu terminal: sudo apt update && sudo apt upgrade
 
 Run SCRIPT via TERMINAL for GNOME desktop.
 
-git clone https://github.com/weaselway/weaselway.git
-
-cd weaselway
-
-./ubuntu/install.sh
+    git clone https://github.com/weaselway/weaselway.git
+    cd weaselway
+    ./ubuntu/install.sh
 
 Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04  - Reboot Ubuntu 26.04 
 
@@ -21,13 +19,12 @@ ww-start-viewer
 
 ---
 
+<p align="center">
+<a href="https://github.com/vinberg88/ubuntu">
+<img width="1920" height="1080" alt="Ubuntu-26 04-Gnome50" src="https://github.com/user-attachments/assets/de3b311f-16db-470f-a542-938593f6b918" />
+</p>
 
-
-
-
-
-
-
+Thanks for Watching - 2026 - Mattias VInberg - Stockholm - Sweden.
 
 ---
 
