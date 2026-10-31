@@ -4,10 +4,12 @@ Install Ubuntu 26.04 via Powershell: wsl --install Ubuntu-26.04
 
 Update all via Ubuntu terminal: sudo apt update && sudo apt upgrade
 
-Run SCRIPT via TERMINAL.
+Run SCRIPT via TERMINAL for GNOME desktop.
 
 git clone https://github.com/weaselway/weaselway.git
+
 cd weaselway
+
 ./ubuntu/install.sh
 
 Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04  - Reboot Ubuntu 26.04 
