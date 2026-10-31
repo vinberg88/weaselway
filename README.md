@@ -1,4 +1,4 @@
-# Weaselway and Ubuntu 26.04 - Wayland . Gnome 50 and over via WSL.
+# Weaselway and Ubuntu 26.04 - Wayland - Gnome 50.
 
 Install Ubuntu 26.04 via Powershell: wsl --install Ubuntu-26.04
 
