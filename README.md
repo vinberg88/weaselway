@@ -26,6 +26,8 @@ ww-start-viewer
 
 Thanks for Watching - 2026 - Mattias VInberg - Stockholm - Sweden.
 
+Read About Ubnutu 26.04 for WSL here: https://github.com/vinberg88/ubuntu
+
 ---
 
 [![Release](https://img.shields.io/github/v/release/weaselway/weaselway?include_prereleases)](https://github.com/weaselway/weaselway/releases)
