@@ -8,7 +8,9 @@ https://github.com/vinberg88/ubuntu/releases
 Press the Blue Icon and you are running UBUNUTU 26.10 Stonking for GNOME 51
 
 
-Update all via Ubuntu terminal: sudo apt update && sudo apt upgrade
+Update all via Ubuntu terminal
+
+    sudo apt update && sudo apt upgrade
 
 Run SCRIPT via TERMINAL for GNOME desktop.
 
