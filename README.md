@@ -29,8 +29,8 @@ MAKE INSTALLATION RICH: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.
 ---
 
 <p align="center">
-<a href="https://github.com/vinberg88/ubuntu">
-<img width="1920" height="1080" alt="Ubuntu-26 04-Gnome50" src="https://github.com/user-attachments/assets/de3b311f-16db-470f-a542-938593f6b918" />
+<a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.10-Gnome51.txt">
+<img width="1920" height="1080" alt="Ubuntu-26 10-Gnome51" src="https://github.com/user-attachments/assets/20758635-fd3b-4e45-90c5-ea29447fdfa3" />
 </p>
 
 Thanks for Watching - 2026 - Mattias VInberg - Stockholm - Sweden - UBUNTU 26.10
