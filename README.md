@@ -28,6 +28,10 @@ Start Ubuntu 26.10 terminal and type this - that all =)
 
 MAKE INSTALLATION RICH: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.10-Gnome51.txt
 
+[Guide - how to install GNOME 51](Ubuntu-26.10-Gnome51.txt)
+
+[Guide - Vide0 via YouTUBE how to install GNOME 51](https://www.youtube.com/watch?v=oRg0p-oceAY)
+
 ---
 
 <p align="center">
