@@ -21,6 +21,7 @@ Reboot Ubuntu 26.10 - Reboot Ubuntu 26.10  - Reboot Ubuntu 26.10
 Start Ubuntu 26.10 terminal and type this - that all =)
 
 ww-start-session
+
 ww-start-viewer
 
 
