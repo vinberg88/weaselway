@@ -20,9 +20,8 @@ Reboot Ubuntu 26.10 - Reboot Ubuntu 26.10  - Reboot Ubuntu 26.10
 
 Start Ubuntu 26.10 terminal and type this - that all =)
 
-ww-start-session
-
-ww-start-viewer
+    ww-start-session
+    ww-start-viewer
 
 
 MAKE INSTALLATION RICH: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.10-Gnome51.txt
