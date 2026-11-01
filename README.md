@@ -1,6 +1,12 @@
-# Weaselway and Ubuntu 26.04 - Wayland - Gnome 50.
+# Ubuntu 26.10 - Wayland - Gnome 51 for WSL
 
-Install Ubuntu 26.04 via Powershell: wsl --install Ubuntu-26.04
+
+Install Ubuntu 26.10 via this link and download stonking26.10-wsl-amd64.wsl 
+
+https://github.com/vinberg88/ubuntu/releases
+
+Press the Blue Icon and you are running UBUNUTU 26.10 Stonking for GNOME 51
+
 
 Update all via Ubuntu terminal: sudo apt update && sudo apt upgrade
 
@@ -10,15 +16,15 @@ Run SCRIPT via TERMINAL for GNOME desktop.
     cd weaselway
     ./ubuntu/install.sh
 
-Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04  - Reboot Ubuntu 26.04 
+Reboot Ubuntu 26.10 - Reboot Ubuntu 26.10  - Reboot Ubuntu 26.10 
 
-Start Ubuntu 26.04 terminal and type this - that all =)
+Start Ubuntu 26.10 terminal and type this - that all =)
 
 ww-start-session
 ww-start-viewer
 
 
-MAKE INSTALLATION RICH: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-Gnome50.txt
+MAKE INSTALLATION RICH: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.10-Gnome51.txt
 
 ---
 
@@ -27,7 +33,7 @@ MAKE INSTALLATION RICH: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.
 <img width="1920" height="1080" alt="Ubuntu-26 04-Gnome50" src="https://github.com/user-attachments/assets/de3b311f-16db-470f-a542-938593f6b918" />
 </p>
 
-Thanks for Watching - 2026 - Mattias VInberg - Stockholm - Sweden.
+Thanks for Watching - 2026 - Mattias VInberg - Stockholm - Sweden - UBUNTU 26.10
 
 Read About Ubnutu 26.04 for WSL here: https://github.com/vinberg88/ubuntu
 
